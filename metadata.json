@@ -1,0 +1,8 @@
+
+{
+  "name": "Capture Journal",
+  "description": "A sophisticated daily journal application featuring AI-powered insights, secure local storage, and high-fidelity image management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
